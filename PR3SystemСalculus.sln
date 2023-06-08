@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR3SystemСalculus", "PR3SystemСalculus\PR3SystemСalculus.csproj", "{CD95B48F-9B81-4A2F-9B0F-400A57521EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSystemCalculs", "UnitTestSystemCalculs\UnitTestSystemCalculs.csproj", "{1D42E3B8-1ACC-4ECB-AC06-CD3809B7CA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD95B48F-9B81-4A2F-9B0F-400A57521EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD95B48F-9B81-4A2F-9B0F-400A57521EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD95B48F-9B81-4A2F-9B0F-400A57521EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD95B48F-9B81-4A2F-9B0F-400A57521EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D42E3B8-1ACC-4ECB-AC06-CD3809B7CA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D42E3B8-1ACC-4ECB-AC06-CD3809B7CA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D42E3B8-1ACC-4ECB-AC06-CD3809B7CA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D42E3B8-1ACC-4ECB-AC06-CD3809B7CA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3609775-7EA6-458A-9536-9A62A0E94DB5}
+	EndGlobalSection
+EndGlobal
